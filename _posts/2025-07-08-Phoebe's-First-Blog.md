@@ -5,7 +5,7 @@ I attend **White Station High School**, and I'm going into my junior year.
 - My favorite subject is Army JROTC.
 - My career goal is to become a pediatric cardiologist.
 
-My Hobbies:
+My hobbies include:
 1. Piano
 2. Running with friends
 3. Watching dramas
