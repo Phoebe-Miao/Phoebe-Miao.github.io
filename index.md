@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Personal blog
 
-Maybe say a some things about yourself.
+WSHS '27
 
-Or maybe what you plan to blog about.
+BigData Cancer
