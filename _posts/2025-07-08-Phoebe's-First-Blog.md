@@ -1,10 +1,15 @@
 ## Phoebe's First Blog
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
+I attend **White Station High School**, and I'm going into my junior year.
+- I'll graduate in 2027.
+- My favorite subject is Army JROTC.
+- My career goal is to become a pediatric cardiologist.
 
-If the file does not start with a header, then the post title will be derived from the filename.
-
-This is a sample blog post. You can talk about all sorts of fun things here.
+My Hobbies:
+1. Piano
+2. Running with friends
+3. Watching dramas
+4. Learning Russian
 
 ---
 
