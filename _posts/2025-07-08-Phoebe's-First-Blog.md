@@ -11,6 +11,11 @@ My Hobbies:
 3. Watching dramas
 4. Learning Russian
 
+I like to play:
+1. NYT Connections
+2. NYT Wordle
+3. Cooking Fever
+
 ---
 
 ### This is a header
