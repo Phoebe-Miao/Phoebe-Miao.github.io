@@ -45,7 +45,7 @@ It is used to study cancer biology and predict drug sensitivity.
 
 In Jupyter Notebook, using the data from Model.csv, I categorized the cancer cell lines by Oncotree Lineage, selecting for Myeloid, which has the primary disease Acute Myeloid Leukemia. There were 87 cancer cell lines with the Oncotree Lineage of Myeloid. When looking at the subtype features, there were 11 BCR-ABL1 positive, two CBFA2T3::GLIS2 and TP53, and various other types, one of each.  (http://localhost:8888/lab/tree/classAI/classAI-25-07-31.ipynb)
 
-To evaluate the efficacy, potency, and selectivity of drugs against different cancer types:
+There are several steps to evaluate the efficacy, potency, and selectivity of drugs against different cancer types:
 First, select cell lines.
 Seed cell lines into multi-well plates (96-well, 384-well). This action allows cells to adhere and grow to a certain density under standard conditions. 
 A library of candidate drugs (or concentrations of a drug) is applied to cells.
