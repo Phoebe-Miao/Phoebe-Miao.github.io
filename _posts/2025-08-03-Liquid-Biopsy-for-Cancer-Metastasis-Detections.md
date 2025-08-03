@@ -30,6 +30,7 @@ From the Kaplan-Meyer plot, it's seen that the number of CTCs impacts the overal
 
 Here is a Kaplan-Meyer plot of the overall survival of patients with Breast Cancer, using data from The Cancer Genome Atlas (TCGA).
 <img width="466" height="327" alt="Lesson_7_Kaplan-Meier_Survival_Curve_-_TCGA_BRCA" src="https://github.com/user-attachments/assets/2280946e-4f27-4e6a-ab7a-f0a0185c1ba8" />
+
 Here is a Kaplan-Meyer plot of the overall survival of patients with Acute Myeloid Leukemia, using data from TCGA.
 <img width="463" height="332" alt="Lesson_7_Kaplan-Meier_Survival_Curve_-_TCGA_LAML" src="https://github.com/user-attachments/assets/4c6bcb08-d0a8-4a0a-9aa0-16bd798a0a3c" />
 
