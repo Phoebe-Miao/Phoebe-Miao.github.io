@@ -13,4 +13,6 @@ We learned about tumor mutations, such as SNPs, which are differences in a singl
 We were introduced to cancer cell lines, cancer subtypes, and drug dose response curves.
 Finally, we learned about cancer metastasis, which is how cancer cells can travel from one area of the body to other areas and form metastatic tumors, leading to death. 
 The Kaplan-Meyer plot was a statistical method we learned about and plotted on Jupyter notebook with data from TCGA about survival of different types of cancer like breast cancer and acute myeloid leukemia.
-Throught the multiple sessions, we learned about different companies, projects, experiments, and technologies that have contributed to advancing research in cancer and led to new discoveries.
+Throught the multiple sessions, we learned about different companies, projects, experiments, and technologies that have contributed to advancing research in cancer and how BigData can lead the advancements in the future.
+Throughout the sessions this summer, I've enjoyed seeing how code can create various types of output, and the most interesting part was seeing how the split violin plots worked. 
+From the lessons, I found the topic of cancer metastasis the most interestng, particularly the method CellSearch uses with EpCAM ferrofluid to magnetically separate and to enumerate circulating tumor cells (CTCs), as well as identifying CTCs by cytokeratin, CD45, and DAPI.
