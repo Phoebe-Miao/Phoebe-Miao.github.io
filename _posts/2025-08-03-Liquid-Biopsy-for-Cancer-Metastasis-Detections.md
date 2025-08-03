@@ -23,7 +23,7 @@ CTCs occur at <10 cells per mL of blood, making it extremely rare. CTCs have nuc
 ### CellSearch
 CellSearch captures the cancer cells, performing immunomagnetic separation using anti-EpCAM ferrofluids. 
 A cellsafe preservative tube holds a patient's blood sample, and this sample is put into a microtube and centrifuged to remove plasma. An anti-CAM entibody specifically binds to EpCAM molecules on the CTC surfaces, and the ferrofluids that connect to the EpCAM have a magnetic property that allows the CTCs to be magnetically isolated.
-Fluorescence staining can be used for identification, usng DAPI to stain the nucleus. The cytoskeleton (CK+) is typically present in epithelial cells, and CD45- is typically expressed in immune cells (WBC) but not in cancer cells (CTC).
+Fluorescence staining can be used for identification, usng DAPI to stain the nucleus. The cytokeratin (CK) is typically present in epithelial cells (CTC, CK+), and CD45 is typically expressed in immune cells (WBC) but not in cancer cells (CTC, CD45-).
 
 ### Kaplan-Meyer Plots
 Enumerating the number of CTCs can help to perform statistical methods and make Kaplan-Meyer plots to find survival rates. 
